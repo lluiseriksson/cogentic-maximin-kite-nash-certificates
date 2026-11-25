@@ -1,0 +1,20 @@
+import MaximinKiteNash
+
+#print axioms MaximinKiteNash.kite_best_response_mixing_row
+#print axioms MaximinKiteNash.kite_best_response_mixing_col
+#print axioms MaximinKiteNash.kite_escape_welfare_cap_general
+#print axioms MaximinKiteNash.kite_one_fifth_welfare_cap_7_4
+#print axioms MaximinKiteNash.zero_sum_minimax_regret_screen
+#print axioms MaximinKiteNash.zero_sum_weak_duality_sum
+#print axioms MaximinKiteNash.kite_dual_lambda_bounds
+#print axioms MaximinKiteNash.dual_weight_ratio_range_1_4_to_4
+#print axioms MaximinKiteNash.simplex_rounding_l1_error_bound
+#print axioms MaximinKiteNash.simplex_rounding_remainder_bounds
+#print axioms MaximinKiteNash.anchored_query_convex_combination
+#print axioms MaximinKiteNash.stage2_universal_step_parameters
+#print axioms MaximinKiteNash.stage4_low_gate_square_completion_5_7
+#print axioms MaximinKiteNash.stage4_cubic_Q_bound_eq5_3
+#print axioms MaximinKiteNash.stage4_subcase1b_discriminant_negative
+#print axioms MaximinKiteNash.stage4_subcase1c_margin_eq5_8
+#print axioms MaximinKiteNash.stage4_high_gate_breakpoints_order
+#print axioms MaximinKiteNash.stage4_final_contradiction_3000_vs_16384

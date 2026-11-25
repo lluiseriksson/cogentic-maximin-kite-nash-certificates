@@ -1,0 +1,64 @@
+{
+  "schema": "KITE-NASH-CERT-1.0",
+  "mode": "stage4_H_algebraic_cert",
+  "cert_id": "stage4_high_gate_top_2_to_4",
+  "regime": "high_gate_top_2_to_4",
+  "probes": [
+    [
+      "9/4",
+      "9/4",
+      "9/4"
+    ],
+    [
+      "5/2",
+      "5/2",
+      "5/2"
+    ],
+    [
+      "5/2",
+      "2",
+      "3"
+    ],
+    [
+      "3",
+      "3",
+      "3"
+    ],
+    [
+      "3",
+      "2",
+      "7/2"
+    ],
+    [
+      "3",
+      "4",
+      "4"
+    ],
+    [
+      "7/2",
+      "7/2",
+      "7/2"
+    ],
+    [
+      "4",
+      "1/4",
+      "4"
+    ],
+    [
+      "4",
+      "2",
+      "4"
+    ],
+    [
+      "4",
+      "4",
+      "4"
+    ]
+  ],
+  "claimed_probe_count": 10,
+  "claimed_worst_probe_idx": 0,
+  "claimed_max_H": "-2229/51200",
+  "claimed_min_H": "-32161/51200",
+  "claimed_margin_to_minus_1_3000": "33179/768000",
+  "claimed_gap_to_volterra_floor": "17807/409600"
+}

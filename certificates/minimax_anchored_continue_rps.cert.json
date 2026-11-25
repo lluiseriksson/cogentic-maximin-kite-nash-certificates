@@ -1,0 +1,87 @@
+{
+  "schema": "KITE-NASH-CERT-1.0",
+  "mode": "minimax_screen_and_rounding_cert",
+  "cert_id": "minimax_anchored_continue_rps",
+  "s_kite": "1/5",
+  "R": [
+    [
+      "1/2",
+      "0",
+      "1"
+    ],
+    [
+      "1",
+      "1/2",
+      "0"
+    ],
+    [
+      "0",
+      "1",
+      "1/2"
+    ]
+  ],
+  "C": [
+    [
+      "1/2",
+      "1",
+      "0"
+    ],
+    [
+      "0",
+      "1/2",
+      "1"
+    ],
+    [
+      "1",
+      "0",
+      "1/2"
+    ]
+  ],
+  "x_mm": [
+    "1/3",
+    "1/3",
+    "1/3"
+  ],
+  "y_mm": [
+    "1/3",
+    "1/3",
+    "1/3"
+  ],
+  "claimed_vR": "1/2",
+  "x_col_guard": [
+    "1/3",
+    "1/3",
+    "1/3"
+  ],
+  "y_col_mm": [
+    "1/3",
+    "1/3",
+    "1/3"
+  ],
+  "claimed_vC": "1/2",
+  "round_target_p": [
+    "1/6",
+    "1/3",
+    "1/2"
+  ],
+  "denom_D": 60,
+  "rounded_counts": [
+    10,
+    20,
+    30
+  ],
+  "claimed_remainder_r": 0,
+  "claimed_l1_error": "0",
+  "claimed_screen_outcome": "anchored_continue",
+  "x_bar": [
+    "1/2",
+    "1/4",
+    "1/4"
+  ],
+  "x_tilde": [
+    "11/24",
+    "13/48",
+    "13/48"
+  ],
+  "claimed_anchor_floor": "13/32"
+}

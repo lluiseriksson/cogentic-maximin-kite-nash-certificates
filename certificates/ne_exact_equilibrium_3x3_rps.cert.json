@@ -1,0 +1,59 @@
+{
+  "schema": "KITE-NASH-CERT-1.0",
+  "mode": "bimatrix_one_fifth_ne_cert",
+  "cert_id": "ne_exact_equilibrium_3x3_rps",
+  "eps_target": "1/5",
+  "construction_stage": "exact_ne",
+  "R": [
+    [
+      "1/2",
+      "0",
+      "1"
+    ],
+    [
+      "1",
+      "1/2",
+      "0"
+    ],
+    [
+      "0",
+      "1",
+      "1/2"
+    ]
+  ],
+  "C": [
+    [
+      "1/2",
+      "1",
+      "0"
+    ],
+    [
+      "0",
+      "1/2",
+      "1"
+    ],
+    [
+      "1",
+      "0",
+      "1/2"
+    ]
+  ],
+  "x": [
+    "1/3",
+    "1/3",
+    "1/3"
+  ],
+  "y": [
+    "1/3",
+    "1/3",
+    "1/3"
+  ],
+  "claimed_uR": "1/2",
+  "claimed_uC": "1/2",
+  "claimed_r1": "0",
+  "claimed_r2": "0",
+  "claimed_max_regret": "0",
+  "claimed_supp_x": 3,
+  "claimed_supp_y": 3,
+  "claimed_lcm_denom": 3
+}

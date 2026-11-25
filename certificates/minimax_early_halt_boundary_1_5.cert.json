@@ -1,0 +1,65 @@
+{
+  "schema": "KITE-NASH-CERT-1.0",
+  "mode": "minimax_screen_and_rounding_cert",
+  "cert_id": "minimax_early_halt_boundary_1_5",
+  "s_kite": "1/5",
+  "R": [
+    [
+      "2/5",
+      "0"
+    ],
+    [
+      "0",
+      "2/5"
+    ]
+  ],
+  "C": [
+    [
+      "0",
+      "2/5"
+    ],
+    [
+      "2/5",
+      "0"
+    ]
+  ],
+  "x_mm": [
+    "1/2",
+    "1/2"
+  ],
+  "y_mm": [
+    "1/2",
+    "1/2"
+  ],
+  "claimed_vR": "1/5",
+  "x_col_guard": [
+    "1/2",
+    "1/2"
+  ],
+  "y_col_mm": [
+    "1/2",
+    "1/2"
+  ],
+  "claimed_vC": "1/5",
+  "round_target_p": [
+    "3/11",
+    "8/11"
+  ],
+  "denom_D": 30,
+  "rounded_counts": [
+    8,
+    22
+  ],
+  "claimed_remainder_r": 1,
+  "claimed_l1_error": "2/165",
+  "claimed_screen_outcome": "early_halt",
+  "halt_x": [
+    "1/2",
+    "1/2"
+  ],
+  "halt_y": [
+    "1/2",
+    "1/2"
+  ],
+  "claimed_halt_regret": "0"
+}

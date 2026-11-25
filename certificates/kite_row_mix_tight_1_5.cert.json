@@ -1,0 +1,50 @@
+{
+  "schema": "KITE-NASH-CERT-1.0",
+  "mode": "kite_best_response_and_welfare_cert",
+  "cert_id": "kite_row_mix_tight_1_5",
+  "branch": "in_kite",
+  "s_kite": "1/5",
+  "R": [
+    [
+      "3/4",
+      "0"
+    ],
+    [
+      "1",
+      "1/2"
+    ]
+  ],
+  "C": [
+    [
+      "1",
+      "1"
+    ],
+    [
+      "0",
+      "1"
+    ]
+  ],
+  "x": [
+    "1",
+    "0"
+  ],
+  "y": [
+    "1",
+    "0"
+  ],
+  "x_out": [
+    "4/5",
+    "1/5"
+  ],
+  "y_out": [
+    "1",
+    "0"
+  ],
+  "best_response_idx": 1,
+  "claimed_uR": "3/4",
+  "claimed_uC": "1",
+  "claimed_r1": "1/4",
+  "claimed_r2": "0",
+  "claimed_welfare": "7/4",
+  "claimed_output_regret": "1/5"
+}

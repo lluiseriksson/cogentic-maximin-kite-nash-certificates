@@ -1,0 +1,7 @@
+name = "maximin_kite_nash"
+version = "1.0.0"
+defaultTargets = ["MaximinKiteNash"]
+moreLeanArgs = ["-j", "1"]
+
+[[lean_lib]]
+name = "MaximinKiteNash"
